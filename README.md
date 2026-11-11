@@ -32,15 +32,14 @@
 
 ### 🤖 AI & Machine Learning
 <p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn" />
+  <img src="https://skillicons.dev/icons?i=python" />
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="40"/>
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" height="40"/>
 </p>
 
 ### 🎮 Game Development
 <p>
-  <img src="https://skillicons.dev/icons?i=unity,cs,cpp,blender,godot" />
+  <img src="https://skillicons.dev/icons?i=unity,cs,cpp" />
 </p>
 
 ### 🌐 Metaverse & Web3
