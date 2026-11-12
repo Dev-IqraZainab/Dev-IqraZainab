@@ -67,11 +67,8 @@
 
 | Project | Description | Tech | Demo |
 |---|---|---|---|
-| 🐸 [**FrogGroove**](https://github.com/Dev-IqraZainab/FrogGroove) | Interactive 3D frog dance party in the browser | three.js · Vite | [▶ Live](https://frog-groove.vercel.app) |
-| 🖼️ [**FetchNft**](https://github.com/Dev-IqraZainab/FetchNft) | Unity WebGL app that fetches & displays NFTs | Unity · Web3 | [▶ Live](https://dev-iqrazainab.github.io/FetchNft/) |
-| 🃏 [**2D Card Match**](https://github.com/Dev-IqraZainab/2d-Prototype) | 2D card-match memory game prototype | Unity · C# | — |
-| 🐸 [**Kermit_Frog**](https://github.com/Dev-IqraZainab/Kermit_Frog) | 3D animated frog character scene | three.js | — |
 | 🎶 [**FrogGrooveBuild**](https://github.com/Dev-IqraZainab/FrogGrooveBuild) | Hosted build of FrogGroove | three.js | [▶ Live](https://dev-iqrazainab.github.io/FrogGrooveBuild/) |
+| 🃏 [**2D Card Match**](https://github.com/Dev-IqraZainab/2d-Prototype) | 2D card-match memory game prototype | Unity · C# | — |
 
 ---
 
