@@ -68,6 +68,8 @@
 | Project | Description | Tech | Demo |
 |---|---|---|---|
 | 🎶 [**FrogGrooveBuild**](https://github.com/Dev-IqraZainab/FrogGrooveBuild) | Hosted build of FrogGroove | three.js | [▶ Live](https://dev-iqrazainab.github.io/FrogGrooveBuild/) |
+| 🎮 [**ai-game-idea-generator**](https://github.com/Dev-IqraZainab/ai-game-idea-generator) | AI game concept generator with offline procedural engine + Claude mode | JavaScript · Claude | [▶ Live](https://dev-iqrazainab.github.io/ai-game-idea-generator/) |
+| ✦ [**ai-chat-assistant**](https://github.com/Dev-IqraZainab/ai-chat-assistant) | Nova: clean AI chat assistant powered by Claude | JavaScript · Claude | [▶ Live](https://dev-iqrazainab.github.io/ai-chat-assistant/) |
 | 🃏 [**2D Card Match**](https://github.com/Dev-IqraZainab/2d-Prototype) | 2D card-match memory game prototype | Unity · C# | — |
 
 ---
